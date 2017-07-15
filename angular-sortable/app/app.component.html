@@ -1,0 +1,19 @@
+<header id="header" class="main-nav-bar navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top clearfix">
+  <h1 id="logo" class="cssLogo pull-left">
+    <a [routerLink]="['/Home']"></a>
+  </h1>
+
+  <div class="pull-right collapse navbar-collapse" id="bs-example-navbar-collapse-9">
+    <ul id="menu" class="menuList nav navbar-nav">
+      <li><a [routerLink]="['/home']" class="btn">Home</a></li>
+      <li><a [routerLink]="['/about']" class="btn">About</a></li>
+      <li><a [routerLink]="['/tables']" class="btn">Tables</a></li>
+    </ul>
+  </div>
+</header>
+
+<div class="shadow"></div>
+
+<div id="container">
+  <router-outlet></router-outlet>
+</div>

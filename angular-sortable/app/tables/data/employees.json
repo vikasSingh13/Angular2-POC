@@ -1,0 +1,65 @@
+{
+    "data": [
+        [
+            "rirani",
+            "Developer",
+            "Romin",
+            "Irani",
+            "E1",
+            "CA",
+            "408-1234567",
+            "romin.k.irani@gmail.com"
+        ],
+        [
+            "nirani",
+            "Developer",
+            "Neil",
+            "Irani",
+            "E2",
+            "CA",
+            "408-1111111",
+            "neilrirani@gmail.com"
+        ],
+        [
+            "thanks",
+            "Program Directory",
+            "Tom",
+            "Hanks",
+            "E3",
+            "CA",
+            "408-2222222",
+            "tomhanks@gmail.com"
+        ],
+        [
+            "vikas",
+            "Javascript Developer",
+            "Vikas",
+            "Singh",
+            "E4",
+            "IN",
+            "408-1587401",
+            "vikas.k.sing@synechron.com"
+        ],
+        [
+            "dinesh",
+            "Full-Stack Developer",
+            "Dinesh",
+            "Matta",
+            "E5",
+            "CA",
+            "408-115576622",
+            "dinesh.matta@synechron.com"
+        ],
+        [
+            "madhukar",
+            "Backend Developer",
+            "Madhukar",
+            "Anand",
+            "E6",
+            "CA",
+            "408-45658778",
+            "madhukar.anand@synechron.com"
+        ]
+    ]
+
+}
